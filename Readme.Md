@@ -16,7 +16,7 @@ UPDATE: 20190531
 example:
 
 If you want to view the help document, enter the following command:
->python runme.py -h
+>python run.py -h
 
 If you want to transform Raw/Wiff data, enter the following command:
->python runme.py -p /your/data
+>python run.py -p /your/data
